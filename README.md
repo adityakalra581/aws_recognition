@@ -2,6 +2,7 @@
 
 This repository contains every code i have written using AWS Rekognition. The AWS Account used here is private and every user required to have 
 this for accessing the API Functionalities.
+
 All credits for the source code goes to AWS.
 
 - Official Documentation: https://docs.aws.amazon.com/rekognition/latest/dg/rekognition-dg.pdf
